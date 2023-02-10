@@ -9,6 +9,7 @@ import plotSummaries from './plotSummaries'
 import AO from './AO'
 import Schedule from './Schedule'
 import events from './events'
+import heroImage from './heroImage'
 
 export const schemaTypes = [
   // Document types
@@ -16,6 +17,7 @@ export const schemaTypes = [
   AO,
   Schedule,
   events,
+  heroImage,
 
   // Other types
 ]
