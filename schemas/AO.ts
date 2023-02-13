@@ -14,6 +14,11 @@ export default {
       description: 'F3 nickname for the site',
     },
     {
+      name: 'City',
+      type: 'string',
+      title: 'AO City',
+    },
+    {
       name: 'location_name',
       type: 'string',
       title: 'Location Name',
