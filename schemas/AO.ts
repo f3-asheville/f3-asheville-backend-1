@@ -19,6 +19,13 @@ export default {
       title: 'AO City',
     },
     {
+      name: 'neighborhood',
+      type: 'string',
+      title: 'AO Neighborhood',
+      description:
+        'General Neighborhood, e.g. "North Asheville" or "Black Mountain". This will help newcomers pick an AO off the map.',
+    },
+    {
       name: 'location_name',
       type: 'string',
       title: 'Location Name',
@@ -28,11 +35,6 @@ export default {
       name: 'location_geopoint',
       type: 'geopoint',
       title: 'Location Geopoint',
-    },
-    {
-      name: 'location_image',
-      type: 'image',
-      title: 'Location Image',
     },
   ],
 }
