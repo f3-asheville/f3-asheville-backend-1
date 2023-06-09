@@ -35,6 +35,11 @@ export default {
       title: 'Event Organizer',
       description: 'Name of F3 member organizing event',
     },
+    {
+      name: 'image',
+      type: 'image',
+      title: 'Image',
+    },
   ],
 }
 // ## Events
