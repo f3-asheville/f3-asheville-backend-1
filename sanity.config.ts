@@ -15,7 +15,7 @@ export default defineConfig({
     deskTool(),
     visionTool(),
     googleMapsInput({
-      apiKey: 'AIzaSyC8Rhvj-EjGyUFSXUdd2yRI2Dw_VQZwdsU',
+      apiKey: 'xyz',
     }),
   ],
 
